@@ -12,4 +12,5 @@ class Users::RegistrationController < Devise::RegistrationController
       end
     end
   end
+  
 end
